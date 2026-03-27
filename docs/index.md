@@ -3,6 +3,12 @@ title: "OpenRefine: Information, Tutorials, and Workshops"
 layout: "home"
 description: "OpenRefine is a free, open-source program used for working with messy data. It allows you to clean, transform, and augment data in preparation for analysis and visualization."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+staff:
+ - name: Nick Field
+   link: https://library.utoronto.ca/staff/nick-field
 ---
 
 # OpenRefine: Information, Tutorials, and Workshops
