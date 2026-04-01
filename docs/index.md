@@ -1,13 +1,19 @@
 ---
 title: "OpenRefine: Information, Tutorials, and Workshops"
 layout: "home"
-description: ""
+description: "OpenRefine is a free, open-source program used for working with messy data. It allows you to clean, transform, and augment data in preparation for analysis and visualization."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+staff:
+ - name: Nick Field
+   link: https://library.utoronto.ca/staff/nick-field
 ---
 
 # OpenRefine: Information, Tutorials, and Workshops
 
-[OpenRefine](https://openrefine.org/)is a free, open\-source program used for working with messy data. It allows you to clean, transform, and augment data in preparation for analysis and visualization.
+[OpenRefine](https://openrefine.org/) is a free, open\-source program used for working with messy data. It allows you to clean, transform, and augment data in preparation for analysis and visualization.
 
 Getting started
 ---------------
@@ -26,9 +32,9 @@ Learning resources
 
 * [Working with Messy Data in OpenRefine](https://play.library.utoronto.ca/watch/d6cf9edd02f94dd8f2b735a710179998)
 
-[https://play.library.utoronto.ca/embed/d6cf9edd02f94dd8f2b735a710179998](https://play.library.utoronto.ca/embed/d6cf9edd02f94dd8f2b735a710179998)
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/d6cf9edd02f94dd8f2b735a710179998" width="560"></iframe>
 
-You can also[download the sample dataset](https://bit.ly/3G39XWM)to follow along, or you can [download the slides](https://bit.ly/3n1EGL6)separately.
+You can also [download the sample dataset](https://bit.ly/3G39XWM) to follow along, or you can [download the slides](https://bit.ly/3n1EGL6) separately.
 
 ### Beginner tutorials
 
@@ -44,4 +50,6 @@ You can also[download the sample dataset](https://bit.ly/3G39XWM)to follow along
 * [OpenRefine Augmenting Activity 3: Using Add Column by Fetching URLs](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-3-using-add-column-fetching-urls)
 * [OpenRefine Augmenting Activity 4: Using Python](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-4-using-python)
 
-Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)**Date Created:** 2022\-05\-04**Updated:** 2022\-07\-21
+Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)
+
+**Date Created:** 2022\-05\-04 **Updated:** 2022\-07\-21
