@@ -50,6 +50,6 @@ You can also [download the sample dataset](https://bit.ly/3G39XWM) to follow alo
 * [OpenRefine Augmenting Activity 3: Using Add Column by Fetching URLs](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-3-using-add-column-fetching-urls)
 * [OpenRefine Augmenting Activity 4: Using Python](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-4-using-python)
 
-Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
 
 **Date Created:** 2022\-05\-04 **Updated:** 2022\-07\-21
