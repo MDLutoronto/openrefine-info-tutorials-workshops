@@ -4,11 +4,15 @@ layout: "home"
 description: "OpenRefine is a free, open-source program used for working with messy data. It allows you to clean, transform, and augment data in preparation for analysis and visualization."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
-staff:
- - name: Nick Field
-   link: https://library.utoronto.ca/staff/nick-field
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+created_date: 2022-05-04
+has_children: true
+has_toc: false
+nav_order: 0
 ---
 
 # OpenRefine: Information, Tutorials, and Workshops
@@ -52,4 +56,4 @@ You can also [download the sample dataset](https://bit.ly/3G39XWM) to follow alo
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
 
-**Date Created:** 2022\-05\-04 **Updated:** 2022\-07\-21
+
