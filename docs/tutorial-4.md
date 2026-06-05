@@ -16,7 +16,8 @@ nav_order: 3.4
 
 *This tutorial has been developed for OpenRefine version 3\.7\.5*
 
-*Update: please note that as of March 18, 2020, Open Data Toronto has suspended service and so their service is not available for API calls. Until service resumes, please skip step 3, and during step 5, please chose to Get Data From: This Computer and select the 311\.json file in the packaged workshop files. This represents a snapshot of the data that will work with the exercises. Please feel free to email [mdl@library.utoronto.ca](mailto:mdl@library.utoronto.ca) if you run into difficulties.*
+*Update: please note that this API is no longer available. Please skip steps 1-4, and during step 5, please chose to Get Data From: This Computer and select the 311\.json file in the packaged workshop files. This represents a snapshot of the data that will work with the exercises. Please feel free to email [mdl@library.utoronto.ca](mailto:mdl@library.utoronto.ca) if you run into difficulties.*
+
 
 Sometimes you don't have your data in a file. Instead you want to use an API call to pull data from elsewhere. OpenRefine can help you make these calls and parse the data you receive.
 
