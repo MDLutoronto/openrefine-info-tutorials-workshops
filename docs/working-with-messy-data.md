@@ -39,7 +39,7 @@ Understand why data cleaning is important
 Get started using OpenRefine for data cleaning to manipulate both textual and numeric data, transform and reshape datasets, and search and filter data in a variety of ways
 This workshop is designed for those new to data cleaning and OpenRefine. There are no prerequisites or assumptions of knowledge of math, statistics, or programming. 
 
-**[Recording - 51:56](https://play.library.utoronto.ca/watch/d6cf9edd02f94dd8f2b735a710179998) & [Setup Instructions](https://maps.library.utoronto.ca/workshops/OpenRefine/Setup.pdf) (includes how to get slides, workshop files, handouts, etc.)
+**[Recording - 51:56](https://play.library.utoronto.ca/watch/d6cf9edd02f94dd8f2b735a710179998) & [Setup Instructions](https://maps.library.utoronto.ca/workshops/OpenRefine/Setup.pdf) (includes how to get slides, workshop files, handouts, etc.)**
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/d6cf9edd02f94dd8f2b735a710179998" width="560"></iframe>
 

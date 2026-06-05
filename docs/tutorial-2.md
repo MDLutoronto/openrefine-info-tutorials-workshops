@@ -22,7 +22,7 @@ The goal of this activity is to create a new project with this citizen science d
 
 Before you begin, please download the [OpenRefine workshop sample datasets](https://maps.library.utoronto.ca/datapub/workshops/OpenRefineWorkshop.zip), if you have not already.
 
-***Note**: This assumes that you have learned the basics of OpenRefine already through the [Survey of Household Spending activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-1).*
+***Note**: This assumes that you have learned the basics of OpenRefine already through the [Survey of Household Spending activity](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-1/).*
 
 **In this activity, you are going to:**
 
@@ -129,7 +129,7 @@ Create a new project from the citizen science dataset and use the clustering fea
 
 21. You'll notice that when you type in the expression, the preview at the bottom changes to show you what the resulting value will be. This preview is extremely helpful when writing GREL expressions! If everything looks good, click on **OK**. Now you should have a new column called **User2** made up of information from the "user\_id" and "user\_login" columns.
 
-    \*To learn more about the General Refine Expression Language (GREL): [https://docs.openrefine.org/manual/expressions\#grel\-general\-refine\-expression\-language](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
+    \*To learn more about the General Refine Expression Language (GREL): [https://docs.openrefine.org/manual/expressions\#grel\-general\-refine\-expression\-language](https://docs.openrefine.org/manual/expressions\#grel\-general\-refine\-expression\-language)
 
     Restructure the dataset by removing columns and rows, and then work with Undo/Redo to roll those changes back
 -------------------------------------------------------------------------------------------------------------
@@ -201,6 +201,5 @@ That’s it for our citizen science dataset!
 
 *Remember, if you want to now close OpenRefine, first click on the black terminal window and hold CTRL\+C until it closes. Then it is safe to close the OpenRefine browser tab.*
 
-[**OpenRefine Tutorial 3: Regular Expressions (Regex) Activity**](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-3-regular-expressions-regex-activity)
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  

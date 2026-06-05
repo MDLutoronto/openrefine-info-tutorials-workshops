@@ -22,7 +22,7 @@ nav_order: 0
 Getting started
 ---------------
 
-* Please visit our tutorial on [installing OpenRefine](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-installation-instructions)
+* Please visit our tutorial on [installing OpenRefine](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/installation/)
 * Please note that all computers in the Map and Data Library (on the fifth floor of Robarts Library), and the computer labs on the fourth and fifth floor of Robarts Library have OpenRefine installed
 
 Learning resources
@@ -42,17 +42,17 @@ You can also [download the sample dataset](https://bit.ly/3G39XWM) to follow alo
 
 ### Beginner tutorials
 
-* [OpenRefine Tutorial 1: Survey of Household Spending Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-1)
-* [OpenRefine Tutorial 2: Citizen Science Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-2)
-* [OpenRefine Tutorial 3: Regular Expressions (Regex) Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-3)
-* [OpenRefine Tutorial 4: 311 Calls Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-4)
+* [OpenRefine Tutorial 1: Survey of Household Spending Activity](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-1/)
+* [OpenRefine Tutorial 2: Citizen Science Activity](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-2/)
+* [OpenRefine Tutorial 3: Regular Expressions (Regex) Activity](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-3/)
+* [OpenRefine Tutorial 4: 311 Calls Activity](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-4/)
 
 ### Intermediate tutorials
 
-* [OpenRefine Augmenting Activity 1: Preparing the Data](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1-preparing-data)
-* [OpenRefine Augmenting Activity 2: Using Reconciliation Services](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2-using-reconciliation-services)
-* [OpenRefine Augmenting Activity 3: Using Add Column by Fetching URLs](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-3-using-add-column-fetching-urls)
-* [OpenRefine Augmenting Activity 4: Using Python](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-4-using-python)
+* [OpenRefine Augmenting Activity 1: Preparing the Data](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-1/)
+* [OpenRefine Augmenting Activity 2: Using Reconciliation Services](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-2/)
+* [OpenRefine Augmenting Activity 3: Using Add Column by Fetching URLs](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-3/)
+* [OpenRefine Augmenting Activity 4: Using Python](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-4/)
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
 

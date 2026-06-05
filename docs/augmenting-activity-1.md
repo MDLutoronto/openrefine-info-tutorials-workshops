@@ -17,7 +17,7 @@ nav_order: 4.1
 
 In this tutorial, we will begin work on augmenting datasets.
 
-*Note: This is an advanced tutorial. If you are new to OpenRefine, please begin with [OpenRefine tutorial 1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-1). This tutorial has been developed for OpenRefine version 3\.7\.5*
+*Note: This is an advanced tutorial. If you are new to OpenRefine, please begin with [OpenRefine tutorial 1](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-1/). This tutorial has been developed for OpenRefine version 3\.7\.5*
 
  
 
@@ -150,6 +150,5 @@ Create a new project from a JSON file of book information and learn about rows v
 
 	![Final results: authors' names have been reversed (if they were previously last name then first name), and authors with one part to their name have been copied over.]({{ '/assets/images/openrefineworkshop83a.png' | relative_url }})
 
-That’s it! Now your dataset is ready for **[OpenRefine Augmenting Activity 2: Using Reconciliation Services](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2-using-reconciliation-services)**
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)

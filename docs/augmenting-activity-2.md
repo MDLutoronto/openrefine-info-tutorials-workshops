@@ -16,10 +16,7 @@ nav_order: 4.2
 
 This tutorial will teach you how to use OpenRefine's reconciliation service to connect data in your dataset with Wikidata.
 
-***Note 1:** Complete [Augmenting activity 1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1) first before attempting this activity.  
-**Note 2:** In order to complete this activity, you need to be running the latest version of OpenRefine.*
-
- 
+*Note: Complete [Augmenting activity 1](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-1/) first before attempting this activity.* 
 
 *This tutorial has been developed for OpenRefine version 3.7.5*
 
@@ -135,7 +132,6 @@ So you can see that although there is some manual work involved in using reconci
 
 For more reconciliation services to try, check out this list: [https://github.com/OpenRefine/OpenRefine/wiki/Reconcilable-Data-Sources](https://github.com/OpenRefine/OpenRefine/wiki/Reconcilable-Data-Sources)
 
-Now you’re ready for [**OpenRefine Augmenting Activity 3: Using Add Column by Fetching URLs**](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-3-using-add-column-fetching-urls)
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
 

@@ -16,7 +16,7 @@ nav_order: 4.4
 
 The goal of this activity is to try out running Python in OpenRefine. We will use it to make an API call to augment our books dataset with information on the authors from Wikipedia.
 
-***Note:** Complete Augmenting Activities [1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1), [2](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2) & [3](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-3) first before attempting this activity.*
+***Note:** Complete Augmenting Activities [1](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-1/), [2](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-2/) & [3](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-3/) first before attempting this activity.*
 
 *This tutorial has been developed for OpenRefine version 3\.7\.5*
 
@@ -41,7 +41,7 @@ Augmenting Data using Python
 
     ![The beginning of the Wikipedia article on Jane Austen, with the URL ending in Jane_Austen]({{ '/assets/images/openrefineworkshop115.png' | relative_url }})
 
-3. So first we need our author names in that format to make this call – which we already partially did in [Augmenting Activity 1](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-1). We reversed the names, but we have not replaced the spaces with underscores yet. From the **Full Author Name** column pull down menu, select **edit cells \> transform**. To use the GREL replace function to substitute spaces with underscores, type:
+3. So first we need our author names in that format to make this call – which we already partially did in [Augmenting Activity 1](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/augmenting-activity-1/). We reversed the names, but we have not replaced the spaces with underscores yet. From the **Full Author Name** column pull down menu, select **edit cells \> transform**. To use the GREL replace function to substitute spaces with underscores, type:
 
     ```
     value.replace(" ", "_")
