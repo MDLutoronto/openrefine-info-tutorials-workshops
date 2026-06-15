@@ -20,7 +20,7 @@ nav_order: 3.1
 
 This is the first activity in this tutorial series, and assumes no prior knowledge of OpenRefine. In this activity you will be importing a spreadsheet of data into OpenRefine and exploring it. The goal of this activity is to use a simple dataset to introduce you to the OpenRefine user interface and some of the basic types of tasks you can accomplish. This dataset isn’t particularly “messy,” but provides some of the core knowledge needed to work with messier datasets in later activities.
 
-If you need a copy of OpenRefine on your personal computer, please follow these [installation instructions](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-installation-instructions).
+If you need a copy of OpenRefine on your personal computer, please follow these [installation instructions](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/installation/).
 
 Before you begin, please download the [OpenRefine workshop sample datasets](https://maps.library.utoronto.ca/datapub/workshops/OpenRefineWorkshop.zip).
 
@@ -207,7 +207,5 @@ Review the dataset and load it into OpenRefine
 That’s it for our Statistics Canada dataset! You’re now familiar with the OpenRefine interface and basic functionality.
 
 *Answer for step 18 above: In 2016, the average household in British Columbia spent $361 on pet food.*
-
-**[OpenRefine Tutorial 2: Citizen Science Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-2-citizen-science-activity)**
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  

@@ -18,7 +18,7 @@ nav_order: 3.3
 
 You were introduced to GREL in the previous activity, so you know that GREL is a powerful tool for cleaning/editing your data. You can make GREL even more powerful by learning how to use regular expressions (aka regex). A regular expression is a sequence of characters that define a search pattern – it is used to search for matches within text. In OpenRefine, you can use it in your GREL expressions to create sophisticated patterns describing what type of information you want to find within your dataset, then do something with the matching text (edit it, delete it, put it in a new column, etc.).
 
-This activity assumes you have already completed the [Survey of Household Spending](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-1) and [Citizen Science](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-2) activities, have a familiarity with OpenRefine and know how to create simple GREL expressions. Before you begin, please download the [OpenRefine workshop sample datasets](https://maps.library.utoronto.ca/datapub/workshops/OpenRefineWorkshop.zip), if you have not already.
+This activity assumes you have already completed the [Survey of Household Spending](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-1/) and [Citizen Science](https://mdlutoronto.github.io/openrefine-info-tutorials-workshops/tutorial-2/) activities, have a familiarity with OpenRefine and know how to create simple GREL expressions. Before you begin, please download the [OpenRefine workshop sample datasets](https://maps.library.utoronto.ca/datapub/workshops/OpenRefineWorkshop.zip), if you have not already.
 
 **In this activity, you are going to:**
 
@@ -241,7 +241,5 @@ Open regex101\.com and load some sample data
 29. For a further challenge, try to perform these steps again to create a column for the site name (array position \[0]) and the numeric measurements (array position \[2]). In each case, you’ll need to do some fiddling with the expression to keep the slashes out of the array element you’re trying to parse at that time.
 
 That’s it for our Regular Expressions activity! You’re now able to perform matching operations on your data using GREL and regular expressions.
-
-[**OpenRefine Tutorial 4: 311 Calls Activity**](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-4-311-calls-activity)
 
 **Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  
