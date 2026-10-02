@@ -20,7 +20,7 @@ This section provides access to a self-paced online Quercus course that focuses 
 
 This workshop will provide an introduction to [OpenRefine](https://openrefine.org/), a powerful open source tool for exploring, cleaning and manipulating “messy” data. Through hands-on activities, using a variety of datasets, participants will learn how to explore and identify patterns in data, normalize data, transform and reshape data, and more.
 
-Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://mdl.library.utoronto.ca/about/contact-form).
+Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/E4JKAW)
 
@@ -45,4 +45,4 @@ This workshop is designed for those new to data cleaning and OpenRefine. There a
 
 You can also [download the sample dataset](https://bit.ly/3G39XWM) to follow along, or you can [download the slides](https://bit.ly/3n1EGL6) separately.
 
-**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) | **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
